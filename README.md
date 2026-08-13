@@ -292,3 +292,5 @@ If this project helped you understand end-to-end machine learning development, c
 ## 📄 License
 
 This project is created for educational and academic purposes.
+public url of these project 
+https://ai-career-advisor-9doa9zfl4uiduqngbj6jns.streamlit.app/
